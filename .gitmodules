@@ -1,0 +1,3 @@
+[submodule "nft-visualiser"]
+	path = nft-visualiser
+	url = ./frontend/nft-visualiser
