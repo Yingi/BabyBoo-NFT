@@ -1,0 +1,3 @@
+[submodule "SiteFrontend"]
+	path = SiteFrontend
+	url = https://github.com/Yingi/BabyBoo-Frontend.git
