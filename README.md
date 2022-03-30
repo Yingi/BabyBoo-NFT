@@ -4,7 +4,7 @@ This is an ERC1155 NFT Project
 
 The nft was deployed on the polygon chain
 
-It also contains a frontend visualiser written in react
+It also contains a visualiser written in react
 
 First:
 
@@ -12,8 +12,8 @@ First:
 
 After this, 
 
-> cd frontend
-> cd nft-visualiser
+> cd SiteFrontend
+
 
 You have to now install the packages that was used in the frontend
 
