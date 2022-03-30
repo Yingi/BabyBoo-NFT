@@ -1,3 +1,6 @@
 [submodule "nft-visualiser"]
 	path = nft-visualiser
 	url = ./frontend/nft-visualiser
+[submodule "BabyBoo-Frontend"]
+	path = BabyBoo-Frontend
+	url = https://github.com/Yingi/BabyBoo-Frontend.git
